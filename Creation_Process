@@ -1,0 +1,18 @@
+
+1. Create the Minimum Viable Product As A Code-Free Web Application
+2. Iterate the Minimum Viable Product Until Satisfied With Features, Design, and User Experience
+3. Create iOS Application Using Xcode and Swift Based on Finalized Viable Product
+
+Minimum Viable Product
+- Collects Both Google Calendar Events and List of Tasks
+- Converts Collected Information Above Into Ideal Prompt For Chat GPT
+- Send Ideal Prompt to Chat GPT and Store Resultant Schedule From Chat GPT
+- Section 1 (Displays First Task From GPT Schedule) + Section 2 (Display Full GPT Schedule)
+- Allows User To Complete Tasks, Delete Tasks, Edit Tasks, and View Tasks
+
+Additional Features (Later):
+- Add Third Section Which Shows GPT Generated Advice For Each Task on Schedule
+- Create Multiple Schedule Options Based on Intensity (Easy or Hard) and Work Style (Snowball or Eat the Frog)
+- Generate Schedule From AI (Chat GPT)
+- Plan Events With Friends (i.e. WhenToMeet)
+
